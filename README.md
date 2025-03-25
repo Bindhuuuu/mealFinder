@@ -10,7 +10,7 @@ Welcome to the Meal Finder website! This application helps you find meal recipes
 
 ## Demo
 
-You can try out the Meal Finder application by visiting this [Demo Link](#).
+You can try out the Meal Finder application by visiting this [https://github.com/Bindhuuuu/mealFinder](#).
 
 ## Technologies Used
 
